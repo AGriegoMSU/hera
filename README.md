@@ -1,2 +1,2 @@
 # hera
-Activity 5 Git Intro
+This is project **hera**!
